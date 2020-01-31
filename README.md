@@ -8,4 +8,4 @@ This is a repository about me where i will be using this repo to develop my pers
 To publish a repository with GitHub pages, the following tools and languages can be used:
 1. The basic tool to publish page is [GitHub](https://github.com)
 2. [Visual Studio Code](https://code.visualstudio.com/) is used to develop code in local machines.
-
+3. [Markdown](https://github.com/ssimpkin/getting-started-with-markdown) is the language used to develop code.
