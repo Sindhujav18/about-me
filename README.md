@@ -9,3 +9,11 @@ To publish a repository with GitHub pages, the following tools and languages can
 1. The basic tool to publish page is [GitHub](https://github.com)
 2. [Visual Studio Code](https://code.visualstudio.com/) is used to develop code in local machines.
 3. [Markdown](https://github.com/ssimpkin/getting-started-with-markdown) is the language used to develop code.
+## Recommended Resources
+These are some of the resources i find useful for web development:
+
+- [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) This gives basics on how to get started with web.
+- [websitehostingrating](https://www.websitehostingrating.com/top-100-web-development-resources/)
+- [github.com/sunny-shakya](https://github.com/sunny-shakya/Web_devlopment_project) you can find an example of web development project here.
+
+
