@@ -21,6 +21,6 @@ Name: Sindhuja Valeti
 Course: Applied Computer Science
 
 
-![](https://images.firstpost.com/fpimages/1200x800/fixed/jpg/2019/07/Kane-Williamson-PC-380.jpg
+![](https://images.firstpost.com/fpimages/1200x800/fixed/jpg/2019/07/Kane-Williamson-PC-380.jpg)
 
 (image credits: firstpost.com)
