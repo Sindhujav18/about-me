@@ -16,22 +16,15 @@ h2,h3{
     display: block;
     flex-basis: 20%;
 }
-section img {
-    width: 30%;
-}
-.second_image {
-    text-align: center;
-}
-aside a {
-    display: inline-block;
+aside {
+    display: block;
     padding: 10px;
     text-align: center;
     border: 3px #454372 solid;
     border-radius: 8px;
     margin: 2px;
     text-decoration: none;
-    color: 
-}
+} 
 video {
     width: 300px;
     height: 220px;
